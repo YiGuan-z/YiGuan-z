@@ -8,3 +8,4 @@
 YiGuan-z/YiGuan-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![:name](https://count.getloli.com/get/@:name)
