@@ -2,11 +2,12 @@ name: genetate snk
 
 on:
   schedule:
-    - corn: "0 */24 * * *"
+    - cron: "0 */24 * * *"
+
   workflow_dispatch:
 
   push:
-    brachches:
+    branches:
       - master
     
 jobs:
