@@ -14,9 +14,9 @@
 
 ![:name](https://count.getloli.com/get/@YiGuan-z)
 
-![Anurag's GitHub stats](https://github-readme-stats-p8eu-yiguan-z.vercel.app/api?username=YiGuan-z&locale=cn)
+![Anurag's GitHub stats](https://readme-status.chengcy.top/api?username=YiGuan-z&locale=cn)
 
-[![Top Langs](https://github-readme-stats-p8eu-yiguan-z.vercel.app/api/top-langs/?username=YiGuan-z&locale=cn&langs_count=8&exclude_repo=Embedded-Development)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-status.chengcy.top/api/top-langs/?username=YiGuan-z&locale=cn&langs_count=8&exclude_repo=Embedded-Development)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue)
