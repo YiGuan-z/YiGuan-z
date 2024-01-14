@@ -19,13 +19,15 @@
 [![Top Langs](https://readme-status.chengcy.top/api/top-langs/?username=YiGuan-z&locale=cn&langs_count=8&exclude_repo=Embedded-Development)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 273.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,15 +62,19 @@ Sunday                   385 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 17 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.78 % 
-Go                       19 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.22 % 
+Other                    2 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.27 % 
+Kotlin                   3 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.45 % 
+Markdown                 0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.18 % 
+GitIgnore file           0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.06 % 
+Shell Script             0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.03 % 
 
 🔥 Editors: 
-Safari                   1 hr 17 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.78 % 
-VS Code                  19 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.22 % 
+Safari                   2 hrs 14 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   95.87 % 
+IntelliJ                 3 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.54 % 
+Warp                     2 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.58 % 
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      2 hrs 20 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +90,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 13/01/2024 18:33:13 UTC
+ Last Updated on 14/01/2024 18:33:33 UTC
 <!--END_SECTION:waka-->
 
 <picture>
